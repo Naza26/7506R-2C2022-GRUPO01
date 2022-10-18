@@ -20,4 +20,8 @@
 |4|17/10 - 23/10|5 y entrega final|
 |5|24/10 - 30/10|tiempo extra por si acaso|
 
+**Checkpoint: 20/10**
+
 **Fecha de Entrega: 3/11**
+
+Gonzalo Manuel Calderon se dio de baja de la materia el dia 17/10.
