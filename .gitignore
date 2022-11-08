@@ -1,5 +1,6 @@
 datasets/properati_argentina_2021.csv
 datasets/properati_argentina_2021_decrip.csv
+datasets/barrios.geojson
 .ipynb_checkpoints
 .idea
 modelos
